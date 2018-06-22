@@ -1,0 +1,44 @@
+.container {
+    float: inline start;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 5px;
+    border-color: #0F0F46;
+    border-style: groove;
+    background-color: #F9D782;
+}
+
+h3 {
+    color: #3C3CE1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+ol {
+    margin: none;
+    list-style: georgian; 
+}
+
+.WRONG, .CORRECT {
+    color: #9595EC;
+    font-size: large;
+    height: auto;
+    width: 150px;
+    text-align: inherit;
+}
+
+button {
+    border-color: #3C3CE1;
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: auto;
+    background-color: whitesmoke;
+}
+
+
+#qBox1, #qBox2 {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
